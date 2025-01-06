@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/firew/static/css/main.f480f8a8.css",
+    "main.js": "/firew/static/js/main.f3c599d8.js",
+    "static/media/janbuca_Cv.pdf": "/firew/static/media/janbuca_Cv.bdb3265ab80113ff2c01.pdf",
+    "static/media/comingSoon.jpg": "/firew/static/media/comingSoon.31b2ad9db99c33147227.jpg",
+    "static/media/darkDev.jpg": "/firew/static/media/darkDev.44dea797676c4456b257.jpg",
+    "static/media/hotel.jpg": "/firew/static/media/hotel.550aadd68ee464bfea04.jpg",
+    "static/media/janbuca.png": "/firew/static/media/janbuca.416a036439f1a3aa4b3b.png",
+    "static/media/amazon.jpg": "/firew/static/media/amazon.bda20f2001f1ee258d05.jpg",
+    "static/media/netflix1.jpg": "/firew/static/media/netflix1.172fd4eea7890e5783dd.jpg",
+    "static/media/appleBootstrap3.jpg": "/firew/static/media/appleBootstrap3.5d7299331ca3eb05cd44.jpg",
+    "index.html": "/firew/index.html",
+    "main.f480f8a8.css.map": "/firew/static/css/main.f480f8a8.css.map",
+    "main.f3c599d8.js.map": "/firew/static/js/main.f3c599d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f480f8a8.css",
+    "static/js/main.f3c599d8.js"
+  ]
+}
